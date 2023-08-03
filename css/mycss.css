@@ -159,6 +159,7 @@ display: none;
     }
 
     .exit {
+        display: none;
         padding: 0px;
         color: rgb(42, 13, 13);
         font-weight: bold;
