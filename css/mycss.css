@@ -142,7 +142,9 @@ color: rgb(103, 43, 43);
     
     }
     
- 
+ .reserv1 {
+display: none;
+ }
     
     .reserv2 {
     grid-column: 91/101; 
